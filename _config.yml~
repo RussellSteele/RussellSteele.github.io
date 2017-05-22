@@ -30,6 +30,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
+  - jekyll-theme-cayman
 exclude:
   - Gemfile
   - Gemfile.lock
