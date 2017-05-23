@@ -1,0 +1,17 @@
+# Setup
+title:        Russell Steele
+tagline:      Associate Professor, Department of Mathematics and Statistics, McGill University
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Russell Steele
+  url:        RussellSteele.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
